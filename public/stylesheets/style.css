@@ -12,7 +12,7 @@
   
   a {
     text-decoration: none;
-    color: #225ca3;
+    color: #000000;
     font-weight: bold;
     transition: color .1s;
   }
@@ -108,55 +108,11 @@
     background: none;
     color: #3486eb;
   }
-  
-  .delete-post-btn {
-    background-color: #000000;
-  }
-  
-  .delete-post-btn:hover {
-    background-color: #3d3d3d;
-  }
-  
+
   .post {
     margin-bottom: 4%;
     line-height: 124%;
   }
-  
-  .post .title span {
-    font-style: italic;
-    font-size: 90%;
-    color: #ffffff;
-  }
-  
-  .edit-link {
-    display: block;
-    margin: -1.5% 0 2% 0;
-  }
 
   
-  .comment-form {
-    margin-bottom: 5%;
-  }
-  
-  .comment {
-    padding: 1%;
-    margin-bottom: 1%;
-  }
-  
-  .comment:nth-child(odd) {
-    background-color: rgb(255, 210, 166);
-  }
-  
-  .comment .meta {
-    font-size: 90%;
-    margin-bottom: .5%;
-    opacity: .6;
-  }
-  
-  .new-post-form input {
-    width: 300px;
-  }
-  
-  .edit-post-form {
-    margin-bottom: 5%;
-  }
+
